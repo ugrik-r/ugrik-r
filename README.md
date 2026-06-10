@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-roslik2014%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:roslik2014@gmail.com)
 
 Full-stack engineer with 4 years of experience building multi-tenant B2B SaaS end to end.
-Recent focus — production LLM engineering: inference cost control, reliability, semantic search.
+Recent focus — production AI/LLM engineering: inference cost control, reliability, semantic search.
 Most of my work lives in private company orgs, so the green squares don't tell the whole story — highlights below.
 
 ---
@@ -32,7 +32,7 @@ Multi-tenant platform connecting thousands of retailers and suppliers; automates
 - Led **subscription billing** (Chargebee — plans, commissions, refunds, invoice reconciliation); built the **automated supplier-payouts** system
 - Led **order processing & fulfillment**: routing line items to suppliers, fulfillment events, order timeline, tracking propagation
 - Co-led the **Shopify** integration and developed the **WooCommerce** integration; near-real-time **inventory sync** with Redis-debounced webhook processing
-- Built the **test infrastructure**: factories, MSW mocking, in-memory MongoDB/Redis/RabbitMQ containers, CI
+- Built the **test infrastructure**: factories, MSW mocking, in-memory MongoDB/Redis/RabbitMQ containers
 
 `Node.js` `Express` `TypeScript` `MongoDB` `RabbitMQ` `Redis` `OpenSearch` `React` `Vite`
 
